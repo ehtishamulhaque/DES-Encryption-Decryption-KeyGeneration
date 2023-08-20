@@ -1,6 +1,6 @@
 ## DES-Encryption-Decryption-KeyGeneration
 
-# Data Encryption Standard (DES)
+# Data Encryption Standard (DES) Cipher
 C++ Implementation of DES (Encryptor, Decryptor & Key Generator) that can display and verify the following flow diagram:
 
 If the plaintext input into the S-DES Encryptor is F2 (hex) and the cipher key is 26E (hex):
